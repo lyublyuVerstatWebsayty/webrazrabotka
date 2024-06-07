@@ -1,0 +1,13 @@
+.img {
+    position: absolute;
+    width: 400px;
+    z-index: 0;
+    border: 2px solid black;
+}
+
+.txt {
+    position: absolute;
+    width: 390px;
+    z-index: 1;
+    top: 150px;
+}

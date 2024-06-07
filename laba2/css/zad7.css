@@ -1,0 +1,25 @@
+/** Пишем код здесь **/
+ul li {
+    color: red !important;
+}
+
+ol li:nth-child(2n) {
+    /* чётные */
+
+    background: green;
+}
+
+tr:nth-child(2n-1) {
+    background: yellow;
+}
+/********** READ-ONLY BLOCK ******
+Не изменять код ниже**/
+
+body {
+    color: blue;
+}
+
+ul li,
+ol li {
+    color: green;
+}

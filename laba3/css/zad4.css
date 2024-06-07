@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+}
+.myDiv {
+    background-color: gray;
+    height: min-content;
+    width: 400px;
+    padding: 5px;
+}
